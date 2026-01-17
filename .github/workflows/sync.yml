@@ -1,0 +1,51 @@
+name: Sync configs from Telegram
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install telethon
+
+      - name: Prepare session file
+        run: |
+          mkdir -p session state
+          echo "${{ secrets.TG_SESSION_B64 }}" | base64 -d > session/telethon.session
+
+      - name: Run sync
+        env:
+          TG_API_ID: ${{ secrets.TG_API_ID }}
+          TG_API_HASH: ${{ secrets.TG_API_HASH }}
+          TG_CHANNEL: "@Spotify_Porteghali"
+          CFG_NAME: "یاسین"
+        run: |
+          python scripts/sync.py
+
+      - name: Commit & push if changed
+        run: |
+          if git status --porcelain | grep -qE 'config\.txt|state/last_id\.txt'; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add config.txt state/last_id.txt
+            git commit -m "Update configs"
+            git push
+          else
+            echo "No changes to commit."
+          fi
