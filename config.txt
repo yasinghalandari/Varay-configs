@@ -1,3 +1,5 @@
+vless://a780c927-6d30-4e88-8ae9-7c0a54e7c76b@fast.wortexnetwork.com:80?mode=auto&security=none&encryption=none&host=so-fast-server-3.global.ssl.fastly.net&type=xhttp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
+vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@172.64.152.23:443?path=%2F130.162.193.183%3A15401&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=market.chepschasb.shop&fp=chrome&type=ws&allowInsecure=0&sni=market.chepschasb.shop#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://15a53ad3-e34f-4152-898b-ed8a7bb3dfe4@fast.panelha.sbs:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=none&encryption=none&host=fastlymyserverplusvip.global.ssl.fastly.net&type=xhttp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://bcb1da7b-2703-4758-bc24-f51365aea1b2@8.cpwarzone-shop.ir:2053?path=%2Fpath&security=tls&encryption=none&insecure=0&host=cdn-alman4.wordpresscrt.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn-alman4.wordpresscrt.ir#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://5df423ec-ff2a-46c7-9abc-f599df34760b@151.101.66.219:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=yashar205.global.ssl.fastly.net&type=xhttp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
