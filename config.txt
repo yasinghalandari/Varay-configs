@@ -1,3 +1,4 @@
+vless://05f2e06f-04d2-436c-a56e-bf9f300afcb4@python.org:80?path=%2F&security=none&encryption=none&host=wall6.global.ssl.fastly.net&type=ws#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://a780c927-6d30-4e88-8ae9-7c0a54e7c76b@fast.wortexnetwork.com:80?mode=auto&security=none&encryption=none&host=so-fast-server-3.global.ssl.fastly.net&type=xhttp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@172.64.152.23:443?path=%2F130.162.193.183%3A15401&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=market.chepschasb.shop&fp=chrome&type=ws&allowInsecure=0&sni=market.chepschasb.shop#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://15a53ad3-e34f-4152-898b-ed8a7bb3dfe4@fast.panelha.sbs:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=none&encryption=none&host=fastlymyserverplusvip.global.ssl.fastly.net&type=xhttp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
