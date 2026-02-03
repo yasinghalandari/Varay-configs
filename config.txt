@@ -1,3 +1,4 @@
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f3.springpaatogh8.store:2087?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=pcgame.sorza.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=pcgame.sorza.ir#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://7e7ec4f2-7d6c-4165-bfc1-c0c6bf4ddc0f@aiframe.org:40428?security=none&encryption=none&headerType=none&type=tcp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://227532ac-65f5-4b56-a7d6-b475b0e08834@c.brimliski.com:443?path=%2Fws%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=subtitle.migamet.sbs&fp=chrome&type=ws&allowInsecure=0&sni=subtitle.migamet.sbs#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://d73a9db0-24b5-4592-8ff0-4f0b5329b39f@se.locations-service.com:3039?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
