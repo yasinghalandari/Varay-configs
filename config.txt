@@ -1,3 +1,4 @@
+vless://327f2937-6345-4984-9cbf-688e8a3a17dc@nv2.napsternet22.com:12012?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.nestandneighbours.com&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://daed5b45-77b5-47dd-803c-11079506e18d@Gr.VipAminPro.Site:8081?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://f8157b85-ba98-436a-b868-e109947813fb@mci.farsnews.fun:80?mode=auto&path=%2F&security=none&encryption=none&host=tonellmelig3.global.ssl.fastly.net&type=xhttp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
