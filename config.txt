@@ -1,3 +1,8 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.95.127.132:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
+vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.236:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
+vless://11d7378f-7381-4b4f-9a15-7882fdca2c7d@sub.mobileamin.shop:2087?path=%2Fws&security=none&encryption=none&host=sub.mobileamin.shop&type=ws#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyeTQ3eVlPb0hhN0ZnSXN5cVE4MnR3@87.228.9.43:1080#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://327f2937-6345-4984-9cbf-688e8a3a17dc@nv2.napsternet22.com:12012?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.nestandneighbours.com&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://daed5b45-77b5-47dd-803c-11079506e18d@Gr.VipAminPro.Site:8081?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
