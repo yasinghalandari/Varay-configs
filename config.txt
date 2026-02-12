@@ -1,3 +1,5 @@
+vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@metrix.taklady.com:47041?security=&encryption=none&host=gharar.ir&headerType=http&type=tcp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
+vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@18.156.73.211:443?security=none&encryption=none&headerType=none&type=tcp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@metrix.taklady.com:47042?security=none&encryption=none&host=gharar.ir&headerType=http&type=tcp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?path=%2F130.185.164.213%3D8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
