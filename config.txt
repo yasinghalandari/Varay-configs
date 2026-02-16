@@ -1,3 +1,5 @@
+vless://dcf03387-f831-42e8-9ad3-72158253399d@45.130.125.69:2053?path=%2Flove&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=Erd.roshdadcollection.ir#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
+vless://dcf03387-f831-42e8-9ad3-72158253399d@193.151.152.81:8013?security=none&encryption=none&headerType=http&type=tcp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://mimitdl@87.107.81.254:29487?mode=gun&security=reality&encryption=none&pbk=MaO9gWmzzml9ktupXxT0ZCkZicrUYKm4IKa1GcZSkDQ&fp=chrome&spx=%2F&type=grpc&sni=yahoo.com#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://d406dda1-2302-4805-a62c-f3dc36799a43@188.114.96.3:2053?path=%2FeyJqdW5rIjoiODJaTHE3aHlUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=v2ngfast.vnkrycw.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=V2nGFasT.VnkRycw.WOrKeRS.dev#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://c805b05e-339d-40e0-8787-432d97a27345@zeus.ns.cloudflare.com:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ServerDL-ParsM2.NetSnap.ir#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
