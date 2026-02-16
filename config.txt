@@ -1,3 +1,5 @@
+vless://084dac85-a82a-4462-9c43-13f0dcf7467c@mail.speedmizban.net:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
+vless://9cfc46c5-e93e-41bd-9553-66230a45bfa3@adm.mykvpnspeeedplus.cfd:52016?security=none&encryption=none&headerType=none&type=tcp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://084dac85-a82a-4462-9c43-13f0dcf7467c@46.224.39.71:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@chatgpt.com:443?path=%2Fvless-tls&security=tls&encryption=none&insecure=0&host=vpnazadie.store&type=ws&allowInsecure=0&sni=telegram.vpnazadie.store#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://084dac85-a82a-4462-9c43-13f0dcf7467c@cpanel.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
