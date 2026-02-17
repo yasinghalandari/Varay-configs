@@ -1,3 +1,4 @@
+vless://b04b9985-25ce-4c33-b2f7-fbd8d1b21347@fi.mobileemdad.top:42538?security=none&encryption=none&host=fi.mobileemdad.top&headerType=http&type=tcp#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.138:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.254.21.147:443#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%DB%8C%D8%A7%D8%B3%DB%8C%D9%86
